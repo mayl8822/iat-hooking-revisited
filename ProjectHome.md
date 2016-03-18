@@ -1,0 +1,1 @@
+Import address table (IAT) hooking is a well documented technique for intercepting calls to imported functions. However, most methods rely on suspicious API functions and leave several easy to identify artifacts. This paper explores different ways IAT hooking can be employed while circumventing common detection mechanisms.
